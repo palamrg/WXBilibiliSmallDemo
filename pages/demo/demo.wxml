@@ -1,0 +1,13 @@
+<!--pages/demo/demo.wxml-->
+<text>pages/demo/demo.wxml</text>
+<view>
+	<!-- 视频详情 -->
+	<view class="video_info">
+		<!-- 视频标签 -->
+		<video src="https://xmyvideo.cdn.bcebos.com/Delacey%20-%20Dream%20It%20Possible.mp4" controls="{{true}}"></video>
+		<!-- 视频标题 -->
+		<view class="video_title">demo视频</view>
+		<!-- 视频作者 -->
+		<view class="video_detail">系统</view>
+	</view>
+</view>
